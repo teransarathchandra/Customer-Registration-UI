@@ -1,0 +1,24 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><h1 style="font-family: 'Quicksand', sans-serif;">Welcome to Customer Portal!</h1></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarColor01">
+      <ul class="navbar-nav me-auto">
+      </ul>
+      <form class="d-flex">
+        <button id="viewcus" routerLink="customer" *ngIf="Add!='clicked'" class="m-1 btn btn-light btn-outline-primary" (click)="imageSource()" Button>View Customers</button>
+        <a href="" id="hidecus" class="m-1 btn btn-light btn-outline-primary" *ngIf="Add=='clicked'">Hide Customers</a>
+      </form>
+    </div>
+  </div>
+</nav>
+
+<div class="container-fluid" style="padding:0px;overflow: hidden;">
+<img src="./assets/cover.png" *ngIf="Add!='clicked'" id="backgroundimg" style="overflow: hidden;position: absolute;background-position: center;background-size: cover;background-repeat: no-repeat-y;height:80%;overflow-x: hidden;overflow-y: hidden;margin-left: 230px;">
+</div>
+<div class="container" style="position:relative;">
+<router-outlet></router-outlet>
+</div>
