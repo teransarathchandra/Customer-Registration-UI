@@ -18,14 +18,24 @@ BackEnd Project Installation
 
 7.Now Your BackEnd Project will be Running.
 
+
+
 FrontEnd Project Installation
 1.Install NodeJS 16.14.0 LTS Version
+
 2.Search and Open NodeJs Console in Taskbar Search
+
 3.Then Run this command on NodeJs Console -   'npm install -g @angular/cli'   without quotation marks 
+
 4.Then Download or Clone the Customer-Registration-UI Project From Githhub
+
 5.Open the Customer-Registration-UI Project by using Visual Studio Code
+
 6.Go to terminal in VSCODE and type this -   'npm install'  without quotation marks
+
 7.After the installation type-   'ng serve --op'   in VSCODE Terminal  without quotation marks
+
 8.Now FrontEnd Project Will Open in Browser
+
 
 Now your project will run smoothly.
