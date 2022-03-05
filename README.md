@@ -1,10 +1,11 @@
 # Customer-Registration-UI
  Customer Registration Portal Project by Using Angular 13, DOT NET CORE 5.0 and Microsoft SQL Server
 
-Restore the given Database by using Microsoft SQL Server 2016 or Upwards Versions.
+# Restore the given Database by using Microsoft SQL Server 2016 or Upwards Versions.
 
 
-BackEnd Project Installation
+
+# BackEnd Project Installation
 
 1.Open Visual Studio 2019 Version
 
@@ -22,7 +23,8 @@ BackEnd Project Installation
 
 
 
-FrontEnd Project Installation
+
+# FrontEnd Project Installation
 
 1.Install NodeJS 16.14.0 LTS Version
 
