@@ -1,5 +1,5 @@
 # Customer-Registration-UI
- Customer Registration Front End Project by Using Angular 13
+ Customer Registration Portal Project by Using Angular 13, DOT NET CORE 5.0 and Microsoft SQL Server
 
 Restore the given Database by using Microsoft SQL Server 2016 or Upwards Versions.
 
