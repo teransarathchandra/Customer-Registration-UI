@@ -3,7 +3,9 @@
 
 Restore the given Database by using Microsoft SQL Server 2016 or Upwards Versions.
 
+
 BackEnd Project Installation
+
 1.Open Visual Studio 2019 Version
 
 2.Copy the GitHub Project clone url from project path
@@ -21,6 +23,7 @@ BackEnd Project Installation
 
 
 FrontEnd Project Installation
+
 1.Install NodeJS 16.14.0 LTS Version
 
 2.Search and Open NodeJs Console in Taskbar Search
